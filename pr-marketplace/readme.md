@@ -1,4 +1,5 @@
 # PR Marketplace
+
 Demo: https://mediaplace.batonis.tech/
 
 ## Features
@@ -8,13 +9,12 @@ Demo: https://mediaplace.batonis.tech/
 - Custom e-commerce system
 
 
-## Developed by
-
+## Developers
+Project created in 4 weeks with 3 people:
 - Backend: @Danirill
 - Frontend: @Talisman701
 - Design: Ksenia Ershova
 
-| Project created in 4 weeks
 
 ________________________
 Batonis 2022
