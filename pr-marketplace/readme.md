@@ -1,5 +1,5 @@
 # PR Marketplace
-Demo: https://media.place.batonis.tech/
+Demo: https://mediaplace.batonis.tech/
 
 ## Features
 - Two type of users
@@ -14,9 +14,7 @@ Demo: https://media.place.batonis.tech/
 - Frontend: @Talisman701
 - Design: Ksenia Ershova
 
-Project created in 4 weeks
--------------------------
+| Project created in 4 weeks
 
-
-
+________________________
 Batonis 2022
