@@ -1,6 +1,9 @@
 # Batonis opensourced demo projects
 
 ## 1. PR Marketplace
+
+Exchange platform for social media
+
 [Code](https://github.com/Batonis-Tech/pr-marketplace) [Demo](https://mediaplace.batonis.tech/)
 
 ### Features
@@ -17,6 +20,7 @@ Project created in 4 weeks with 3 people:
 - Design: Ksenia Ershova
 
 ## 2. Batonis NFT
+NFT collection mint page
 
 [Code](https://github.com/Batonis-Tech/batonis-nft) [Demo](https://batonis.tech/nft)
 
