@@ -4,7 +4,7 @@
 
 Exchange platform for social media
 
-[Code](https://github.com/Batonis-Tech/pr-marketplace) [Demo](https://mediaplace.batonis.tech/)
+[Code](https://github.com/Batonis-Tech/pr-marketplace) [Demo](https://demo.batonis.tech/)
 
 ### Features
 - Two type of users
