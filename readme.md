@@ -22,7 +22,7 @@ Project created in 4 weeks with 3 people:
 ## 2. Batonis NFT
 NFT collection mint page
 
-[Code](https://github.com/Batonis-Tech/batonis-nft) [Demo](https://batonis.tech/nft)
+[Code](https://github.com/Batonis-Tech/batonis-nft) [Demo](https://nft.batonis.tech)
 
 ### Features
 - Polygon network 
